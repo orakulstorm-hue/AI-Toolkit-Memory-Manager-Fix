@@ -207,7 +207,14 @@ oracle-pstate-unlock/
     ├─ manager_modules.py
     └─ memory_manager.patch
 ```
+### 📥 Download the Fix
 
+Replace the original files in your `toolkit/memory/` directory with these patched versions:
+
+1. [manager.py](./patches/manager.py) — Updated orchestration layer.
+2. [manager_modules.py](./patches/manager_modules.py) — Core logic (Streams, Pin Memory, Double Buffering).
+
+**Important:** Both files must be updated together to ensure proper synchronization between the manager and the execution modules.
 ---
 
 ## 🎓 Technical Deep Dive
