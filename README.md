@@ -16,8 +16,8 @@ Sample Generation (Preview) has been completely removed from the code. This is a
 
 4. Ultimatum: If real-time generation is critical for you, do not use this manager. Stay with stock settings at 30–60 seconds per iteration. This tool is built for those who prioritize results and time efficiency over "peeking" at the process.
 
-5. image1.png
-
+5. ### Terminal
+![Result](image1.png)
 
 ## 🎯 TL;DR
 
